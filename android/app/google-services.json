@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "770013583048",
+    "firebase_url": "https://caronasunifal.firebaseio.com",
+    "project_id": "caronasunifal",
+    "storage_bucket": "caronasunifal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770013583048:android:e4b8eec16865cc9b",
+        "android_client_info": {
+          "package_name": "br.com.lucasgodt.carona_unifal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770013583048-vj50tc58l6e7dgk8qaa5m7sl1fcrpbhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvc480vjwoXL3460ZXLs2zRuFyKwb0m-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770013583048-vj50tc58l6e7dgk8qaa5m7sl1fcrpbhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
